@@ -1,13 +1,13 @@
 [![Code transform has never been easier: GoGoCode](https://img.alicdn.com/imgextra/i3/O1CN01mosd7H1tHiOY3uxB2_!!6000000005877-2-tps-1949-552.png)](https://gogocode.io)
 
-[![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)[这是一个a分支提交]
 
 ## GoGoCode 是什么？
 
 [English version of README](README.md)
 
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API
-就是全网最简单上手的AST工具
+就是全网最简单上手的AST工具，代码转换如此简单
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
 -   一套和正则表达式接近的语法用来匹配和替换代码
